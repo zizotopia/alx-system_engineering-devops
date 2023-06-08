@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod a+554 hello
+chmod ugo+554 hello
